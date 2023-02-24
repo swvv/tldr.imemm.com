@@ -1,1 +1,0 @@
-export { languageTag } from "./languageTag";

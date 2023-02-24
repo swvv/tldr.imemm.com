@@ -1,1 +1,0 @@
-export { languagesEmbed } from "./languagesEmbed";
